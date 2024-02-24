@@ -1,2 +1,2 @@
 # About my first project on GitHub
-Actually, this file was downloaded from OCTOCAT's repository
+These files are parts of my "CommunityToolkit.Mvvm.Practice" Program
